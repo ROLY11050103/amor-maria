@@ -1,6 +1,6 @@
 const p_dias = document.querySelector(".p_dias");
 
-const inicio = new Date(2024,3,1);
+const inicio = new Date(2024,2,1);
 
 const hoy = new Date();
 
